@@ -1,3 +1,3 @@
 # Snake
 
-![Sanke Demo]/snakeDemo.gif
+![Sanke Demo]snakeDemo.gif
