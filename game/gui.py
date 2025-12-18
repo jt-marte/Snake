@@ -1,9 +1,9 @@
 import time
 
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 import logic
 from logic import listen
-from game.logic import gameBoard
+from logic import gameBoard
 import threading
 
 BOX_SIZE = (35, 35)
